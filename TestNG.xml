@@ -1,0 +1,7 @@
+<suite name="hiraSuite">
+    <test name="LoginTests">
+        <Classes>
+            <class name = "tests.loginTest"/>
+        </Classes>
+    </test>
+</suite>
